@@ -1,7 +1,14 @@
-# Welcome to my website!
+# 
+``` python
+print(Welcome to my website!)
+```
+
 ![Picture of me](images/brooklyn_small.png?raw=true "Big fat nerd")
+____
 
 Hi, I'm Ryan McCormick. I'm an incoming junior at Binghamton University studying Computer Science and Mathematics. I love to learn and be challenged, and I find space and the physics related to it, to be extremely cool.
+
+___
 
 # Coolest Projects At The Moment
 
