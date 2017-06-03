@@ -2,11 +2,7 @@
 
 <div align="center"> 
 <h1> Hi there! </h1>
-</div>
-
----
-
-<div align="center">
+<hr>
 <img src="images/brooklyn_small.png" alt="Big fat meanie" align="middle"> 
 </div>
 
