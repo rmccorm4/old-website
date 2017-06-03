@@ -1,16 +1,17 @@
-# 
 ``` python
-print(Welcome to my website!)
+def welcome_user():
+	print(Welcome to my website!)
 ```
 
 ![Picture of me](images/brooklyn_small.png?raw=true "Big fat nerd")
 ____
 
-Hi, I'm Ryan McCormick. I'm an incoming junior at Binghamton University studying Computer Science and Mathematics. I love to learn and be challenged, and I find space and the physics related to it, to be extremely cool.
+Hi there! I'm an incoming junior at Binghamton University studying Computer Science and Mathematics. I love to learn and be challenged, and I find space and the physics related to it, to be extremely cool.
 
 ___
 
 # Coolest Projects At The Moment
+___
 
 ## Pokefetch
 This is a neat terminal tool I am working on that basically puts a pokedex right in your shell using Bash and Python!
@@ -21,6 +22,7 @@ You just run the command:
 and get a nice picture and relevant information on the pokemon right there in a screenfetch-esque fashion.
 
 For a more detailed description, you can find the GitHub repository [here](https://github.com/rmccorm4/Pokefetch).
+___
 
 ## Archon
 This is currently a very basic programming language that I am writing from scratch with my friend Thomas in Python.
