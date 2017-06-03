@@ -14,7 +14,7 @@ I'm Ryan McCormick, an incoming junior at Binghamton University studying Compute
 
 ---
 
-# Coolest Projects At The Moment
+# Notable Current Projects
 
 ---
 
@@ -48,6 +48,7 @@ The current progress is kept [here](https://github.com/rmccorm4/Archon), but the
 ---
 
 ## Automatic Target Recognition Center (ATRC)
+
 Currently I am 'ATRC intern' at Wright-Patterson Air Force Base in Dayton Ohio.
 I am conducting research with a masters student on representations of convolutional neural networks in order
 to better understand how and why they work. There are many unanswered questions in the field regarding why
@@ -71,4 +72,4 @@ Here is a demo of our work:
 
 <iframe src="https://www.youtube.com/embed/FVk2ZBuirrI" allowfullscreen="" class="youtube" frameborder="10" width="560" height="315"></iframe>
 
-S. Canavan, W. Keyes, R. McCormick, J. Kunnumpurath, T. Hoelzel, and L. Yin, "Hand Gesture Recognition Using a Skeleton-based Feature Representation with a Random Regression Forest", IEEE International Conference on Image Processing, 2017 (To Appear).
+S. Canavan, W. Keyes, R. McCormick, J. Kunnumpurath, T. Hoelzel, and L. Yin, "Hand Gesture Recognition Using a Skeleton-based Feature Representation with a Random Regression Forest", IEEE International Conference on Image Processing, 2017 (To Appear)
