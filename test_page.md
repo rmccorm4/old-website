@@ -9,7 +9,7 @@ ___
 # Coolest Projects At The Moment
 ___
 | Title      | Description |
-| ---------- | ----------- |
+| -----      | ----------- |
 | Pokefetch  | 
 
 This is a neat terminal tool I am working on that basically puts a pokedex right in your shell using Bash and Python!
