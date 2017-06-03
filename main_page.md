@@ -41,8 +41,30 @@ The current progress is kept [here](https://github.com/rmccorm4/Archon), but the
 
 # Work Experiences
 
-Currently I am an 'Automatic Target Recognition Center (ATRC) intern' at Wright-Patterson Air Force Base in Dayton Ohio.
+---
+
+## Automatic Target Recognition Center (ATRC)
+Currently I am 'ATRC intern' at Wright-Patterson Air Force Base in Dayton Ohio.
 I am conducting research with a masters student on representations of convolutional neural networks in order
 to better understand how and why they work. There are many unanswered questions in the field regarding why
-neural networks perform so well, and it's usually just described as magic. Our goal is to de-mystify that
-magic this summer.
+neural networks perform so well, and it's usually just described as magic. Our goal is to de-mystify that 
+magic this summer as well as get a publication out of the work.
+
+---
+
+# Publications
+
+---
+
+## ICIP 2017
+
+In my first three semesters at Binghamton University, I conducted research through the Freshman Research Immersion (FRI) program.
+Under the guidance of Dr. Shaun Canavan, I worked alongside several other students to create a real time hand-gesture 
+classification system for the American Sign Language (ASL) alphabet. We used the Leap Motion controller for gathering data
+and used C++ and it's random forest library RFLib for the classification.
+
+Here is a demo of our work:
+
+<iframe src="https://www.youtube.com/embed/FVk2ZBuirrI" allowfullscreen="" class="youtube" frameborder="10" width="560" height="315"></iframe>
+
+S. Canavan, W. Keyes, R. McCormick, J. Kunnumpurath, T. Hoelzel, and L. Yin, "Hand Gesture Recognition Using a Skeleton-based Feature Representation with a Random Regression Forest", IEEE International Conference on Image Processing, 2017 (To Appear).
