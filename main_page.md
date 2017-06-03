@@ -1,4 +1,4 @@
-``` py
+```py
 def welcome_user():
 	print(Hi there!)
 ```
