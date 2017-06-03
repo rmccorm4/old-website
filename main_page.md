@@ -1,5 +1,5 @@
 # Hi there!
-<div style="text-align: center;"> ![Picture of me](images/brooklyn_small.png?raw=true "Big fat nerd") </div>
+<img src="images/brooklyn_small.png" alt="Big fat meanie" align="middle">
 ---
 
 I'm Ryan McCormick, an incoming junior at Binghamton University studying Computer Science and Mathematics. I love to learn and be challenged, and I find space and the physics related to it, to be extremely cool.
