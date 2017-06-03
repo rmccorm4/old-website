@@ -1,12 +1,12 @@
-``` python
+``` py
 def welcome_user():
-	print(Welcome to my website!)
+	print(Hi there!)
 ```
 
 ![Picture of me](images/brooklyn_small.png?raw=true "Big fat nerd")
 ____
 
-Hi there! I'm an incoming junior at Binghamton University studying Computer Science and Mathematics. I love to learn and be challenged, and I find space and the physics related to it, to be extremely cool.
+I'm Ryan McCormick, an incoming junior at Binghamton University studying Computer Science and Mathematics. I love to learn and be challenged, and I find space and the physics related to it, to be extremely cool.
 
 ___
 
