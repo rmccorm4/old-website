@@ -1,5 +1,5 @@
 # Hi there!
-<img src="images/brooklyn_small.png" alt="Big fat meanie" align="middle">
+<div align="center"> <img src="images/brooklyn_small.png" alt="Big fat meanie" align="middle"> </div>
 ---
 
 I'm Ryan McCormick, an incoming junior at Binghamton University studying Computer Science and Mathematics. I love to learn and be challenged, and I find space and the physics related to it, to be extremely cool.
@@ -17,7 +17,7 @@ You just run the command:
 ```
 and get a nice picture and relevant information on the pokemon right there in a screenfetch-esque fashion.
 
-![Pokefetch example](https://github.com/rmccorm4/Pokefetch/imgs/oldschool_sprite.png)
+![Pokefetch example](https://github.com/rmccorm4/Pokefetch/blob/master/imgs/oldschool_sprite.png)
 
 For a more detailed description, you can find the GitHub repository [here](https://github.com/rmccorm4/Pokefetch).
 ---
