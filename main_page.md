@@ -1,6 +1,7 @@
-<div align="center"> 
+<div align="center">
+<hr>
 <h1> Hi there! </h1>
-<hr />
+<hr>
 <img src="images/brooklyn_small.png" alt="Big fat meanie" align="middle"> 
 </div>
 
